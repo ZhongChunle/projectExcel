@@ -1,0 +1,57 @@
+<component name="libraryTable">
+  <library name="batik-anim-1.14">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ReadWriteFileTest/lib/batik-anim-1.14.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ReadWriteFileTest/lib/batik-awt-util-1.14.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ReadWriteFileTest/lib/batik-bridge-1.14.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ReadWriteFileTest/lib/batik-codec-1.14.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ReadWriteFileTest/lib/batik-constants-1.14.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ReadWriteFileTest/lib/batik-css-1.14.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ReadWriteFileTest/lib/batik-dom-1.14.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ReadWriteFileTest/lib/batik-ext-1.14.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ReadWriteFileTest/lib/batik-gvt-1.14.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ReadWriteFileTest/lib/batik-i18n-1.14.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ReadWriteFileTest/lib/batik-parser-1.14.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ReadWriteFileTest/lib/batik-script-1.14.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ReadWriteFileTest/lib/batik-svg-dom-1.14.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ReadWriteFileTest/lib/batik-svggen-1.14.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ReadWriteFileTest/lib/batik-svgrasterizer-1.14.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ReadWriteFileTest/lib/batik-transcoder-1.14.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ReadWriteFileTest/lib/batik-util-1.14.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ReadWriteFileTest/lib/batik-xml-1.14.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ReadWriteFileTest/lib/bcpkix-jdk15on-1.70.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ReadWriteFileTest/lib/bcprov-jdk15on-1.70.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ReadWriteFileTest/lib/bcutil-jdk15on-1.70.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ReadWriteFileTest/lib/commons-codec-1.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ReadWriteFileTest/lib/commons-collections4-4.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ReadWriteFileTest/lib/commons-compress-1.21.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ReadWriteFileTest/lib/commons-io-2.11.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ReadWriteFileTest/lib/commons-logging-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ReadWriteFileTest/lib/commons-math3-3.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ReadWriteFileTest/lib/curvesapi-1.07.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ReadWriteFileTest/lib/fontbox-2.0.25.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ReadWriteFileTest/lib/graphics2d-0.34.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ReadWriteFileTest/lib/log4j-api-2.17.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ReadWriteFileTest/lib/log4j-core-2.17.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ReadWriteFileTest/lib/pdfbox-2.0.25.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ReadWriteFileTest/lib/poi-5.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ReadWriteFileTest/lib/poi-examples-5.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ReadWriteFileTest/lib/poi-excelant-5.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ReadWriteFileTest/lib/poi-ooxml-5.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ReadWriteFileTest/lib/poi-ooxml-full-5.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ReadWriteFileTest/lib/poi-ooxml-lite-5.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ReadWriteFileTest/lib/poi-scratchpad-5.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ReadWriteFileTest/lib/slf4j-api-1.7.36.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ReadWriteFileTest/lib/SparseBitSet-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ReadWriteFileTest/lib/xml-apis-1.4.01.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ReadWriteFileTest/lib/xml-apis-ext-1.3.04.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ReadWriteFileTest/lib/xmlbeans-5.0.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ReadWriteFileTest/lib/xmlgraphics-commons-2.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ReadWriteFileTest/lib/xmlsec-2.3.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/ReadWriteFileTest/lib/poi-javadoc-5.2.1.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>
